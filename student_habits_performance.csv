@@ -1,0 +1,201 @@
+,student_id,age,gender,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,internet_quality,mental_health_rating,extracurricular_participation,exam_score
+0,1,24,Female,3,5,3,No,60,9,Average,5,Master,Medium,4,No,70
+1,2,21,Male,0,0,0,Yes,85,5,Good,4,High School,Low,2,No,90
+2,3,22,Male,3,3,0,Yes,62,5,Poor,1,Master,High,7,Yes,44
+3,4,24,Female,0,4,4,Yes,92,6,Good,0,High School,High,8,No,58
+4,5,20,Female,5,0,3,Yes,52,5,Poor,6,Bachelor,Low,2,No,73
+5,6,22,Female,4,1,3,No,82,6,Good,3,Master,Medium,5,Yes,49
+6,7,22,Female,7,1,3,No,55,4,Average,3,Master,Medium,1,No,64
+7,8,24,Female,3,0,2,No,99,6,Poor,2,PhD,Medium,7,Yes,41
+8,9,19,Female,7,1,4,Yes,59,6,Poor,3,Master,Medium,8,No,50
+9,10,20,Female,7,5,3,No,54,7,Good,4,Master,High,6,No,89
+10,11,24,Female,7,5,2,Yes,72,6,Good,6,Bachelor,High,5,No,70
+11,12,20,Male,6,0,1,No,59,6,Poor,5,Master,High,6,Yes,95
+12,13,20,Female,2,4,1,Yes,93,9,Good,4,Bachelor,High,2,No,54
+13,14,22,Female,0,4,2,Yes,51,4,Good,2,Bachelor,High,1,No,48
+14,15,21,Male,7,0,2,Yes,62,7,Good,4,Bachelor,Medium,7,No,62
+15,16,20,Female,0,4,4,No,89,9,Average,5,Bachelor,Medium,7,Yes,58
+16,17,23,Male,7,4,4,No,51,8,Average,1,High School,Medium,2,Yes,48
+17,18,22,Male,3,5,1,No,69,4,Good,2,PhD,Medium,2,No,74
+18,19,19,Female,2,4,3,No,50,4,Good,1,High School,High,1,Yes,60
+19,20,21,Male,2,2,1,Yes,86,8,Average,0,Master,High,8,No,48
+20,21,23,Male,5,3,3,No,58,6,Average,1,High School,High,8,No,67
+21,22,23,Male,6,1,3,No,66,9,Poor,0,High School,Low,1,No,85
+22,23,19,Male,5,2,4,Yes,58,5,Poor,0,Master,Medium,8,No,90
+23,24,21,Female,5,4,0,Yes,60,7,Average,1,Master,Medium,9,No,46
+24,25,22,Male,5,5,0,Yes,64,5,Good,2,Master,High,4,No,55
+25,26,18,Female,5,0,2,No,73,8,Good,5,High School,Medium,1,No,55
+26,27,21,Male,5,4,4,Yes,87,4,Good,4,High School,Medium,1,Yes,99
+27,28,19,Male,4,5,3,Yes,84,4,Good,4,Master,High,3,Yes,72
+28,29,23,Male,2,3,0,Yes,79,7,Poor,5,PhD,Low,5,Yes,43
+29,30,22,Male,5,4,3,No,80,4,Average,6,PhD,Low,5,Yes,43
+30,31,21,Female,7,0,0,Yes,98,4,Good,6,Bachelor,Low,9,Yes,78
+31,32,18,Female,2,5,0,No,54,7,Poor,0,Master,High,2,Yes,79
+32,33,18,Male,2,5,0,No,93,9,Good,0,Bachelor,Medium,2,Yes,56
+33,34,20,Male,1,5,4,Yes,99,9,Average,2,PhD,High,6,No,76
+34,35,20,Female,4,3,1,Yes,63,7,Poor,3,Bachelor,High,9,No,78
+35,36,24,Male,5,4,3,No,60,8,Average,1,Master,Medium,1,No,99
+36,37,19,Male,0,3,4,Yes,58,4,Average,0,Master,Low,9,No,91
+37,38,21,Male,3,1,4,Yes,83,4,Poor,4,Master,Low,9,Yes,68
+38,39,21,Female,6,1,4,No,61,8,Poor,2,High School,High,9,Yes,91
+39,40,24,Female,7,4,4,No,84,9,Poor,1,Bachelor,Low,5,No,75
+40,41,23,Female,0,3,4,Yes,84,6,Poor,2,PhD,High,9,No,99
+41,42,23,Male,4,0,2,No,50,6,Poor,1,PhD,High,4,Yes,77
+42,43,24,Male,3,5,3,Yes,89,6,Poor,1,PhD,Medium,2,No,78
+43,44,23,Female,4,5,4,Yes,71,9,Poor,5,High School,Medium,6,No,89
+44,45,20,Female,7,4,3,Yes,78,9,Good,0,High School,Medium,4,No,76
+45,46,21,Female,2,1,2,No,57,8,Average,2,Master,High,6,No,91
+46,47,24,Female,3,1,2,Yes,60,4,Poor,2,PhD,Medium,3,Yes,74
+47,48,21,Male,2,5,3,Yes,90,8,Good,5,High School,Low,6,No,46
+48,49,18,Female,7,4,0,Yes,86,8,Good,4,Master,Low,2,No,66
+49,50,20,Male,0,3,1,No,63,9,Good,4,PhD,High,2,Yes,67
+50,51,22,Female,7,1,0,No,79,6,Average,6,Bachelor,High,9,Yes,61
+51,52,20,Male,0,3,0,No,84,5,Poor,0,Master,Medium,7,No,53
+52,53,24,Female,3,1,0,No,70,4,Good,0,High School,High,3,Yes,46
+53,54,22,Female,3,1,4,No,86,9,Average,3,High School,High,1,No,76
+54,55,18,Female,5,2,2,Yes,54,6,Average,5,Master,Low,8,No,61
+55,56,24,Female,4,1,0,No,68,5,Average,4,Master,Low,6,Yes,44
+56,57,19,Male,5,0,2,No,63,5,Good,1,High School,Medium,7,No,94
+57,58,21,Female,4,4,3,No,75,9,Poor,2,Bachelor,High,9,No,41
+58,59,18,Male,5,4,1,Yes,53,7,Good,0,PhD,High,5,No,66
+59,60,21,Male,2,3,3,No,74,4,Good,2,Bachelor,Low,1,No,60
+60,61,23,Male,3,1,3,No,94,5,Poor,2,Master,High,7,Yes,93
+61,62,19,Male,0,0,4,Yes,91,9,Poor,3,Bachelor,Low,5,Yes,77
+62,63,19,Female,4,3,1,No,74,9,Poor,4,High School,Medium,3,No,54
+63,64,18,Male,7,2,3,Yes,67,6,Average,0,Master,Low,9,Yes,60
+64,65,19,Male,4,3,3,Yes,89,7,Poor,2,PhD,High,1,No,49
+65,66,22,Male,0,3,1,Yes,57,4,Good,0,High School,Medium,1,No,62
+66,67,19,Female,5,1,1,Yes,88,8,Poor,1,High School,Low,1,No,97
+67,68,21,Female,4,2,3,Yes,89,6,Good,3,PhD,Low,3,No,95
+68,69,21,Female,6,3,1,No,63,5,Average,1,PhD,Medium,6,No,78
+69,70,24,Female,2,0,3,Yes,81,5,Good,0,Bachelor,Medium,3,Yes,44
+70,71,21,Male,3,0,3,Yes,87,6,Good,6,Master,Low,8,No,40
+71,72,24,Male,0,4,4,No,82,9,Poor,0,PhD,High,2,Yes,52
+72,73,21,Female,3,2,0,Yes,72,5,Poor,4,PhD,Low,9,Yes,60
+73,74,22,Male,6,2,3,No,64,7,Good,2,Master,Medium,3,No,65
+74,75,24,Male,4,4,2,No,82,4,Poor,2,PhD,Low,5,No,89
+75,76,20,Male,4,3,0,No,74,7,Average,1,PhD,Medium,8,No,84
+76,77,23,Female,7,2,0,Yes,66,5,Average,3,Bachelor,Medium,2,No,60
+77,78,18,Female,6,0,0,Yes,82,8,Poor,6,High School,High,6,No,92
+78,79,21,Male,0,0,4,Yes,96,4,Average,5,High School,Medium,5,Yes,57
+79,80,19,Female,7,1,3,No,51,4,Poor,2,High School,Medium,9,No,76
+80,81,21,Female,2,2,4,Yes,63,6,Good,4,High School,High,5,No,84
+81,82,19,Female,7,3,3,Yes,89,6,Good,1,PhD,Medium,2,Yes,71
+82,83,23,Female,1,4,4,Yes,89,8,Average,1,Master,High,5,Yes,75
+83,84,23,Female,0,4,4,No,88,9,Poor,5,Master,High,4,No,56
+84,85,23,Male,1,3,2,No,55,4,Poor,4,Bachelor,Medium,7,Yes,74
+85,86,19,Female,6,5,4,Yes,55,8,Average,3,Bachelor,Medium,6,No,88
+86,87,21,Male,5,1,1,Yes,52,6,Good,4,PhD,Low,2,Yes,99
+87,88,23,Male,1,4,2,Yes,56,6,Average,3,Master,High,5,Yes,50
+88,89,22,Female,2,2,4,Yes,57,4,Good,4,Master,Low,7,No,60
+89,90,24,Male,7,1,0,No,91,7,Poor,4,High School,Medium,7,Yes,91
+90,91,19,Male,5,2,1,No,64,5,Good,0,PhD,Low,5,Yes,94
+91,92,19,Male,7,0,1,No,96,6,Average,1,PhD,High,9,Yes,92
+92,93,21,Female,1,1,1,No,78,9,Poor,4,High School,Low,4,Yes,65
+93,94,19,Female,7,4,2,Yes,82,9,Average,5,PhD,High,3,Yes,43
+94,95,19,Male,6,1,4,Yes,79,6,Average,4,PhD,Medium,4,Yes,73
+95,96,23,Female,5,1,4,Yes,88,7,Good,2,Bachelor,Medium,5,No,91
+96,97,21,Female,6,1,0,No,76,7,Average,1,Master,High,6,No,87
+97,98,23,Female,1,5,0,Yes,85,8,Good,2,PhD,Medium,3,Yes,99
+98,99,24,Female,6,1,1,No,78,9,Poor,1,Bachelor,Medium,2,No,57
+99,100,24,Male,2,2,0,No,87,8,Good,2,Master,Medium,4,No,79
+100,101,23,Male,1,0,2,Yes,82,9,Poor,4,High School,Medium,5,No,74
+101,102,24,Female,1,3,4,Yes,86,5,Good,4,Bachelor,High,4,Yes,80
+102,103,21,Female,1,1,1,Yes,76,5,Average,0,Bachelor,Low,3,No,68
+103,104,18,Male,0,4,0,No,82,4,Good,5,Master,Low,8,Yes,91
+104,105,23,Male,7,1,2,Yes,53,8,Good,2,High School,Medium,4,No,68
+105,106,22,Female,0,4,2,No,71,6,Poor,3,Bachelor,Low,2,Yes,77
+106,107,22,Male,0,2,0,Yes,51,8,Average,0,PhD,Low,2,Yes,81
+107,108,19,Female,2,4,4,No,59,6,Good,2,PhD,Medium,1,No,60
+108,109,24,Female,5,3,0,No,54,7,Average,2,PhD,Medium,4,No,81
+109,110,22,Male,7,0,1,Yes,59,8,Good,0,High School,Low,9,Yes,52
+110,111,19,Male,6,4,0,No,82,7,Good,4,Bachelor,High,7,No,88
+111,112,18,Female,4,4,2,No,87,5,Average,2,PhD,Medium,7,No,80
+112,113,21,Female,1,0,0,Yes,62,5,Good,4,High School,High,7,No,56
+113,114,21,Male,6,3,4,No,80,4,Average,0,PhD,Low,8,Yes,95
+114,115,21,Female,1,1,3,Yes,96,8,Good,4,Master,Medium,1,Yes,48
+115,116,22,Male,2,4,0,No,85,7,Poor,1,Bachelor,High,8,No,80
+116,117,18,Female,1,0,4,Yes,94,6,Average,3,Bachelor,Medium,4,No,40
+117,118,22,Male,0,2,4,Yes,73,5,Good,6,High School,Low,4,No,41
+118,119,24,Male,7,0,2,No,64,5,Good,2,High School,High,4,Yes,99
+119,120,22,Male,4,2,4,No,78,6,Poor,5,Bachelor,Low,6,Yes,87
+120,121,18,Female,3,3,4,No,57,7,Average,3,PhD,Low,7,No,68
+121,122,18,Female,1,1,4,No,54,7,Good,6,PhD,Medium,6,No,72
+122,123,24,Male,6,0,4,No,78,8,Poor,4,Master,High,1,No,49
+123,124,18,Female,0,5,1,Yes,96,8,Good,2,PhD,Low,8,No,89
+124,125,18,Male,3,4,1,No,53,9,Average,4,High School,Low,7,No,97
+125,126,21,Male,4,3,2,Yes,61,9,Good,1,High School,High,6,No,99
+126,127,24,Female,3,0,0,Yes,94,4,Good,0,PhD,Low,6,Yes,79
+127,128,20,Female,0,4,4,No,51,5,Good,2,High School,Low,5,No,60
+128,129,20,Male,7,0,0,Yes,76,8,Good,6,Bachelor,High,6,Yes,67
+129,130,18,Female,7,2,0,Yes,80,7,Poor,6,Bachelor,High,9,No,50
+130,131,20,Female,5,0,2,Yes,85,6,Poor,1,PhD,High,9,No,94
+131,132,20,Male,7,5,4,Yes,85,7,Average,1,Bachelor,High,8,Yes,73
+132,133,18,Male,5,0,4,No,75,5,Poor,2,Bachelor,Medium,9,Yes,47
+133,134,20,Female,3,0,3,Yes,92,9,Poor,4,Master,High,8,Yes,98
+134,135,22,Male,2,5,0,No,76,7,Average,5,Master,Medium,8,Yes,61
+135,136,19,Male,6,3,0,No,54,4,Poor,6,Bachelor,Medium,1,No,47
+136,137,24,Female,6,0,1,Yes,69,5,Poor,6,PhD,Medium,5,Yes,88
+137,138,19,Male,3,5,3,No,60,9,Average,1,Master,Low,4,No,54
+138,139,18,Male,1,4,1,No,59,6,Average,3,High School,Medium,2,Yes,56
+139,140,21,Female,1,2,1,No,89,9,Average,1,High School,Medium,8,No,99
+140,141,24,Female,7,2,1,Yes,87,4,Good,5,High School,Low,3,No,62
+141,142,18,Male,6,0,2,No,55,5,Good,4,PhD,Low,4,No,63
+142,143,21,Male,6,3,2,No,57,6,Average,4,Bachelor,Low,7,No,84
+143,144,19,Female,5,3,1,No,72,4,Average,3,High School,High,9,No,58
+144,145,18,Female,2,4,3,Yes,96,9,Average,6,PhD,Low,2,No,44
+145,146,24,Female,0,0,0,No,75,4,Good,1,Master,Low,3,Yes,71
+146,147,24,Female,1,2,3,Yes,95,5,Good,4,Bachelor,Medium,4,No,83
+147,148,23,Male,6,3,4,Yes,92,8,Poor,5,Master,Low,1,Yes,40
+148,149,22,Female,5,0,2,Yes,61,4,Poor,2,PhD,High,7,Yes,62
+149,150,20,Female,4,3,0,Yes,75,4,Average,0,High School,Low,2,No,76
+150,151,21,Male,5,5,0,Yes,62,9,Good,0,High School,High,5,Yes,47
+151,152,23,Female,1,3,4,Yes,89,9,Good,0,PhD,Low,1,No,52
+152,153,20,Male,1,2,4,No,67,6,Good,6,High School,Low,3,Yes,47
+153,154,20,Female,5,1,1,Yes,74,9,Average,1,Bachelor,Low,2,No,96
+154,155,18,Female,0,4,2,No,82,7,Poor,3,PhD,Low,1,Yes,62
+155,156,20,Female,3,4,2,No,96,5,Average,4,Master,High,7,No,82
+156,157,22,Male,1,2,3,Yes,89,5,Poor,2,PhD,High,5,No,40
+157,158,24,Male,5,3,1,No,92,8,Poor,5,Bachelor,Medium,1,No,84
+158,159,23,Female,6,0,1,No,61,8,Average,2,Bachelor,High,6,No,90
+159,160,20,Male,5,3,1,No,93,5,Poor,5,PhD,Low,5,Yes,63
+160,161,18,Male,2,2,1,No,85,8,Poor,6,PhD,Medium,3,No,74
+161,162,22,Male,3,4,2,Yes,97,6,Good,1,High School,Medium,7,Yes,63
+162,163,19,Male,4,3,2,No,53,9,Poor,0,Bachelor,Medium,9,Yes,56
+163,164,24,Male,0,4,1,Yes,54,5,Average,1,PhD,Low,9,Yes,44
+164,165,24,Male,7,0,3,No,86,8,Average,6,PhD,High,9,No,59
+165,166,23,Female,4,4,0,No,57,5,Poor,3,Bachelor,Low,2,Yes,60
+166,167,24,Female,3,4,0,Yes,91,7,Good,3,PhD,Medium,3,Yes,79
+167,168,20,Male,3,1,3,No,98,4,Good,6,High School,Low,7,Yes,97
+168,169,18,Female,3,1,1,No,77,9,Poor,5,Bachelor,Low,5,No,70
+169,170,24,Female,4,5,2,No,80,5,Poor,4,High School,High,2,No,85
+170,171,24,Female,6,1,0,Yes,58,4,Average,4,High School,High,3,Yes,75
+171,172,19,Female,3,4,4,No,78,8,Poor,5,High School,Medium,6,No,50
+172,173,19,Male,5,2,4,Yes,63,4,Good,3,High School,Low,7,No,91
+173,174,21,Female,4,4,3,No,89,9,Poor,3,Bachelor,Low,9,Yes,54
+174,175,22,Female,7,2,1,Yes,90,5,Average,3,High School,High,1,Yes,58
+175,176,20,Male,3,2,0,Yes,71,7,Average,1,High School,Low,7,No,46
+176,177,24,Male,5,1,1,No,60,8,Average,3,PhD,Low,8,Yes,90
+177,178,24,Female,6,3,0,No,72,5,Average,2,Bachelor,Low,3,No,67
+178,179,18,Female,2,0,3,Yes,50,9,Average,0,Bachelor,High,4,No,90
+179,180,21,Female,6,1,3,Yes,95,8,Poor,3,Master,Medium,6,No,82
+180,181,22,Female,7,1,4,No,86,6,Poor,5,Bachelor,Medium,7,No,97
+181,182,21,Female,3,3,1,Yes,70,4,Poor,0,Bachelor,Low,4,No,44
+182,183,23,Female,7,0,4,No,75,9,Poor,1,Master,Medium,8,No,44
+183,184,22,Male,4,4,1,No,95,6,Average,5,Bachelor,High,5,Yes,69
+184,185,24,Female,1,5,4,No,85,5,Good,0,Bachelor,High,1,Yes,93
+185,186,24,Female,3,5,2,No,72,7,Poor,5,Bachelor,Medium,4,No,71
+186,187,22,Male,1,4,2,Yes,50,8,Good,1,Bachelor,Medium,3,No,47
+187,188,24,Male,5,1,2,No,89,4,Poor,2,Master,Low,9,No,49
+188,189,20,Male,2,0,2,Yes,64,8,Poor,1,Bachelor,Medium,8,Yes,77
+189,190,22,Male,0,1,0,No,70,5,Good,1,Bachelor,Low,1,No,86
+190,191,21,Female,7,2,2,Yes,96,8,Average,5,Master,Low,6,Yes,71
+191,192,22,Female,6,1,3,No,58,4,Poor,6,PhD,High,9,No,87
+192,193,24,Female,2,1,3,Yes,58,5,Poor,4,High School,High,7,No,67
+193,194,20,Female,3,4,0,Yes,59,8,Poor,3,PhD,High,4,Yes,56
+194,195,20,Female,1,4,2,No,75,7,Good,3,Master,High,1,Yes,70
+195,196,23,Female,6,4,2,No,90,9,Average,2,High School,Medium,2,No,47
+196,197,21,Male,1,5,2,No,84,5,Good,2,Master,High,5,No,79
+197,198,19,Female,4,2,4,No,74,9,Good,3,Master,Medium,5,No,64
+198,199,19,Male,1,4,1,Yes,75,5,Average,4,Bachelor,High,8,Yes,48
+199,200,22,Male,4,0,4,No,60,7,Good,3,High School,Medium,6,Yes,41
